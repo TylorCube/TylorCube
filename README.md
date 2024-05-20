@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TylorCube
+- 👋 Hi, I’m @TylorCube aka Young Diamond
 - 👀 I’m interested in . the programing
 - 🌱 I’m currently learning . Phyton , JS , HTML , Figma , C++ 
 - 💞️ I’m looking to collaborate on . Google some day.
